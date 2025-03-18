@@ -37,6 +37,7 @@ Esta es una aplicación web interactiva diseñada para elegir un "Amigo Secreto"
   - **sortearAmigo():** Selecciona al azar un amigo de la lista para realizar el sorteo.
 
 ### Ejemplo
+![image](https://github.com/user-attachments/assets/96eebef1-ded9-4513-a542-9dc49d3f6acd)
 
 ## Instalación y Uso
 
